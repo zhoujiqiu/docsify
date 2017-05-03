@@ -1,5 +1,6 @@
 
 - **快速开始**
+  - [说明](/readme) 
   - [安装/引入](/index) 
 
 - **JS Components**
